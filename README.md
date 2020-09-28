@@ -6,4 +6,4 @@ This python code simulates the affected population in Malaysia and shows the eff
 
 Refer to my blog for detailed descriptions:
 
-https://nguwijy.wordpress.com/2020/03/17/the-impact-of-social-distancing/
+https://nguwijy.azurewebsites.net/social-distancing/
